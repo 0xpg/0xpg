@@ -25,9 +25,9 @@
 
 - 🔭 I’m currently working at [bZx Protocol](https://bzx.network) as a Growth Lead.
 - 💬 Happy to discuss about growth marketing, podcasts, and consumer internet.
-- 📫 Reach me on [Twitter](https://twitter.com/travpreneur)
-- ♥️ I love National Parks, startups, and maps
-- ♂ Pronouns: He/His
+- 📫 Reach out to me on [Twitter](https://twitter.com/travpreneur). (DMs open 💌)
+- ♥️ I love National Parks, startups, and maps.
+- ♂ Pronouns: He/His.
 
 
 [![Twitter: travpreneur](https://img.shields.io/twitter/follow/travpreneur?style=social)](https://twitter.com/travpreneur)
