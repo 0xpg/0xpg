@@ -23,13 +23,13 @@
 
 
 
-- 🔭 I’m currently working at [bZx Protocol](https://bzx.network).
-- ♥️ I love National Parks, startups, and maps
+- 🔭 I’m currently working at [bZx Protocol](https://bzx.network) as a Growth Lead.
 - 💬 Ask me about all things growth marketing.
-- 📫 How to reach me: [Twitter](https://twitter.com/travpreneur)
-- 😄 Pronouns: He/His
+- 📫 Reach me on [Twitter](https://twitter.com/travpreneur)
+- ♥️ I love National Parks, startups, and maps
+- ♂ Pronouns: He/His
 
 
 [![Twitter: travpreneur](https://img.shields.io/twitter/follow/travpreneur?style=social)](https://twitter.com/travpreneur)
-[![Linkedin: Pratik Gandhi](https://img.shields.io/badge/-travpreneur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/travpreneur/)](https://www.linkedin.com/in/travpreneur/)
+[![LinkedIn: Pratik Gandhi](https://img.shields.io/badge/-travpreneur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/travpreneur/)](https://www.linkedin.com/in/travpreneur/)
 [![GitHub travpreneur](https://img.shields.io/github/followers/travpreneur?label=follow&style=social)](https://github.com/travpreneur)
