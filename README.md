@@ -23,11 +23,11 @@
 
 
 
-- 🔭  I’m currently working at [Covalent](https://covalenthq.com) as a Head of Marketing & Growth
-- 💬  Happy to discuss DeFi, NFTs, crypto, growth, and podcasts
-- 📫  Reach out to me on [Twitter](https://twitter.com/travpreneur) (DMs open 💌)
-- ♥️  I love National Parks, startups, and maps
-- ♂  Pronouns: He/His
+🔭  I’m currently working at [Covalent](https://covalenthq.com) as a Head of Marketing & Growth
+💬  Happy to discuss DeFi, NFTs, crypto, growth, and podcasts
+📫  Reach out to me on [Twitter](https://twitter.com/travpreneur) (DMs open 💌)
+♥️  I love National Parks & maps
+♂  Pronouns: He/His
 
 
 [![Twitter: travpreneur](https://img.shields.io/twitter/follow/travpreneur?style=social)](https://twitter.com/travpreneur)
