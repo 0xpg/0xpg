@@ -23,7 +23,7 @@
 
 
 
-- 🔭  I currently work at [Covalent](https://covalenthq.com) as Head of Marketing & Growth
+- 🔭  I work as a Web3 Marketer
 - 💬  Happy to discuss DeFi, NFTs, crypto, growth, and podcasts
 - 📫  Reach out to me on [Twitter](https://twitter.com/travpreneur) (DMs open 💌)
 - ♥️  I love National Parks & maps
