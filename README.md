@@ -8,9 +8,6 @@
 <a href="https://t.me/zkrpatik">
   <img align="left" alt="Pratik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/travpreneur/">
-  <img align="left" alt="Pratik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://linkedin.com/in/0xpg">
   <img align="left" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -22,8 +19,8 @@
 
 - 🔭  marketer | consumer crypto investor | public goods maximalist 
 - 💬  happy to discuss all things crypto -- onchain social, defi, nfts
-- 📫  reach out to me on [X](https://x.com/0xpratik) (DMs open 💌)
-- ♥️  i love National Parks & maps
+- 📫  reach out to me on [X](https://x.com/0xpratik) (dm open 💌)
+- ♥️  i love national parks & maps
 - ♂  pronouns: he/his
 
 
