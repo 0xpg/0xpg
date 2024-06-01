@@ -21,12 +21,12 @@
 
 
 - 🔭  marketer | consumer crypto investor | public goods maximalist 
-- 💬  Happy to discuss all things crypto -- onchain social, defi, nfts,
-- 📫  Reach out to me on [X](https://x.com/0xpratik) (DMs open 💌)
-- ♥️  I love National Parks & maps
-- ♂  Pronouns: He/His
+- 💬  happy to discuss all things crypto -- onchain social, defi, nfts,
+- 📫  reach out to me on [X](https://x.com/0xpratik) (DMs open 💌)
+- ♥️  i love National Parks & maps
+- ♂  pronouns: he/his
 
 
-[![X: 0xpratik](https://img.shields.io/x/follow/0xpratik?style=social)](https://x.com/0xpratik)
+[![X: 0xpratik](https://img.shields.io/twitter/follow/0xpratik?style=social)](https://x.com/0xpratik)
 [![LinkedIn: Pratik Gandhi](https://img.shields.io/badge/-travpreneur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xpg/)](https://www.linkedin.com/in/0xpg/)
 [![GitHub travpreneur](https://img.shields.io/github/followers/travpreneur?label=follow&style=social)](https://github.com/travpreneur)
