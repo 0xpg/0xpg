@@ -26,4 +26,4 @@
 
 [![X: 0xpratik](https://img.shields.io/twitter/follow/0xpratik?style=social)](https://x.com/0xpratik)
 [![LinkedIn: Pratik Gandhi](https://img.shields.io/badge/-pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xpg/)](https://www.linkedin.com/in/0xpg/)
-[![GitHub travpreneur](https://img.shields.io/github/followers/travpreneur?label=follow&style=social)](https://github.com/travpreneur)
+[![GitHub pratik](https://img.shields.io/github/followers/0xpg?label=follow&style=social)](https://github.com/0xpg)
