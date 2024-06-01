@@ -19,7 +19,7 @@
 
 - 🔭  marketer | consumer crypto investor | public goods maximalist 
 - 💬  happy to discuss all things crypto -- onchain social, defi, nfts
-- 📫  reach out to me on [X](https://x.com/0xpratik) (dm open 💌)
+- 📫  reach out to me on [X](https://x.com/0xpratik) (dms open 💌)
 - ♥️  i love national parks & maps
 - ♂  pronouns: he/his
 
