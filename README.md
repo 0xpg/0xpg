@@ -2,26 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xpg&label=Views&color=blue&style=plastic" alt="0xpg" /> </p>
 
-<a href="https://x.com/0xpratik">
-  <img align="left" alt="Pratik's X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/zkrpatik">
-  <img align="left" alt="Pratik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://linkedin.com/in/0xpg">
-  <img align="left" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<p align="left"> <a href="https://twitter.com/0xpratik" target="blank"><img src="https://img.shields.io/twitter/follow/0xpratik?logo=twitter&style=for-the-badge" alt="0xpratik" /></a> </p>
 
-<br/>
-<br/>
-
-
-
+- 🧱  currently bulding/growing **EigenLayer** at the **Eigen Foundation**
 - 🔭  marketer | consumer crypto investor | public goods maximalist 
-- 💬  happy to discuss all things crypto -- onchain social, defi, nfts
+- 💬  happy to discuss all things crypto -- onchain, infra, consumer social, defi, nfts
 - 📫  reach out to me on [X](https://x.com/0xpratik) (dms open 💌)
-- ♥️  i love national parks & maps
-- ♂  pronouns: he/his
+- ♥️   i love national parks & maps
 
 
 [![X: 0xpratik](https://img.shields.io/twitter/follow/0xpratik?style=social)](https://x.com/0xpratik)
