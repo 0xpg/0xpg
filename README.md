@@ -1,6 +1,6 @@
 ## Hey, I'm Pratik! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xpg&label=Views&color=blue&style=plastic" alt="pratikgx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikgx&label=Views&color=blue&style=plastic" alt="pratikgx" /> </p>
 
 <p align="left"> <a href="https://x.com/pratikg" target="blank"><img src="https://img.shields.io/twitter/follow/pratikg?logo=twitter&style=for-the-badge" alt="pratikg" /></a> </p>
 
